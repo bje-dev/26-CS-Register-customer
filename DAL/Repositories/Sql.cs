@@ -1,17 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain
+namespace DAL.Repositories
 {
-    public class Address
+    public class Sql
     {
-        private string Name;
-        private int Number;
-        private string areacode;
-
-
+        
     }
 }

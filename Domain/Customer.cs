@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public class Class1
+    public class Customer
     {
+        private string Name;
+        private string Surname;
+        private string Email;
+        private List<Address> AddressList;
+
     }
 }
